@@ -3,6 +3,7 @@ Apollo
 Ares Mars
 Artemis Diana
 Athena Minerva
+Atlas
 Cronus Saturn
 Demeter Ceres
 Dionysus
@@ -23,4 +24,5 @@ Persephone
 Poseidon Neptune
 Prometheus
 Selene Luna
+Themis
 Zeus Jupiter
