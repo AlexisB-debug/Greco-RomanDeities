@@ -1,26 +1,26 @@
-Aphrodite
+Aphrodite Venus
 Apollo
-Ares
-Artemis
-Athena
-Aurora
-Cronus
-Demeter
+Ares Mars
+Artemis Diana
+Athena Minerva
+Cronus Saturn
+Demeter Ceres
 Dionysus
-Eros
-Erebus
+Eos Aurora
+Eris Discordia
+Eros Cupid
 Gaia
-Hades
+Hades Pluto
 Helios
 Hephaestus
-Hera
-Hermes
+Hera Juno
+Hermes Mercury
 Hestia
 Hypnos
 Morpheus
-Nike
+Nike Victoria
 Persephone
-Poseidon
+Poseidon Neptune
 Prometheus
-Selene
-Zeus
+Selene Luna
+Zeus Jupiter
